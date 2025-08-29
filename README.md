@@ -1,5 +1,11 @@
 # Bayesian Salary Regression Pipeline
 
+![Repo size](https://img.shields.io/github/repo-size/pablo-reyes8/scratch-bayesian-salary-regression)
+![Last commit](https://img.shields.io/github/last-commit/pablo-reyes8/scratch-bayesian-salary-regression)
+![Open issues](https://img.shields.io/github/issues/pablo-reyes8/scratch-bayesian-salary-regression)
+![Forks](https://img.shields.io/github/forks/pablo-reyes8/scratch-bayesian-salary-regression?style=social)
+![Stars](https://img.shields.io/github/stars/pablo-reyes8/scratch-bayesian-salary-regression?style=social)
+
 A comprehensive end-to-end implementation of a Bayesian linear regression model to predict individual salaries using conjugate Gaussian–Inverse-Gamma priors, optimized Gibbs sampling, and full posterior diagnostics.
 
 ## 📖 Overview
